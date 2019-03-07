@@ -1,5 +1,8 @@
 # synonym-recognition-by-embedding
 
+![Language](https://img.shields.io/github/languages/top/cloudyyyyy/synonym-recognition-by-embedding.svg?style=flat)
+![Licence](https://img.shields.io/github/license/cloudyyyyy/synonym-recognition-by-embedding.svg?style=flat)
+
 ## Relation Resource
 
  - Synonym dataset `datasets/synonyms/*` is built on Chinese Synonym Dataset: [同义词词林](https://www.ltp-cloud.com/download#down_cilin).
